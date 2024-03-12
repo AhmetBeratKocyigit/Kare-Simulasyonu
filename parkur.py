@@ -15,7 +15,7 @@ WIDTH = 600
 HEIGHT = 400
 
 # Kare hızı
-SPEED = 10  # Kare bu değerdeki mesafeyi her adımda kat eder
+SPEED = 10  
 
 # Parkur oluşturma
 def draw_course(screen):
