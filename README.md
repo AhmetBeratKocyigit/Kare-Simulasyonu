@@ -7,7 +7,7 @@ Bu proje, Python ve Pygame kullanılarak geliştirilmiş bir kare simülasyonunu
 Bu projeyi bilgisayarınıza klonlayın veya indirin:
 
 ```bash
-git clone https://github.com/kullaniciadi/kare-simulasyonu.git
+git clone https://github.com/AhmetBeratKocyigit/Kare-Simulasyonu
 ```
 
 Python ve Pygame kurulu olmalıdır. Python'u [buradan](https://www.python.org/) indirebilir ve yükleyebilirsiniz. Pygame kütüphanesini yüklemek için aşağıdaki komutu kullanın:
